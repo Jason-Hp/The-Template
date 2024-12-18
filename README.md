@@ -1,1 +1,2 @@
-Accessable on https://jason-hp.github.io/To-Do-List/
+This is a template.
+Please reworked the README when you use this template.
